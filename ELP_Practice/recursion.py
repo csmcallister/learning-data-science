@@ -14,8 +14,8 @@ def isPalindrome(w):
 ###Enter your own recursive function to determine if a word is a palindrome
 
 
-#number = int(input('Enter an integer:'))
-#print(factorial(number))
+number = int(input('Enter an integer:'))
+print(factorial(number))
 
-word = str(input('Enter a word:'))
-print(isPalindrome(word))
+#word = str(input('Enter a word:'))
+#print(isPalindrome(word))
