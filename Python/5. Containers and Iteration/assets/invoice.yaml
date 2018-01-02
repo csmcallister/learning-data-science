@@ -1,0 +1,28 @@
+invoice: 34843
+date   : 2017-01-01
+bill-to: &id000001
+    given  : Bob
+    family : Dylan
+    address:
+        lines: |
+            123 Happy Dr.
+            Suite #1
+        city    : Palm Beach Gardens
+        state   : FL
+        postal  : 33410
+ship-to: *id000001
+product:
+    - sku         : BL232D
+      quantity    : 9
+      description : Widget
+      price       : 100.00
+    - sku         : BL232E
+      quantity    : 1
+      description : Wodget
+      price       : 1250.00
+tax  : 391.51
+total: 1741.51
+comments: >
+    Buzz at gate.
+    Beware of dog
+    Call @ 555-5555.
