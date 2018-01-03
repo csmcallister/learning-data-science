@@ -1,10 +1,12 @@
-# LearningDS
+# learning-data-science
 A repo for learning data science through Python.
 # Description:
 
-A liberal arts student endeavors to learn Python, statistics, and mathematics by creating lessons that teach the selfsame subjects. 
+A liberal arts student endeavors to learn Python, statistics, and mathematics by creating lessons that teach the selfsame subjects. These lessons are meant to be accessible to anyone and have a few guiding principles:
+- Active Learning - you'll only learn by doing, so each lesson has plenty of (hopefully) engaging exercises.
+- Inductive Chain Learning - new concepts build upon mastery (or at least familiarity) with old ones. 
 
-# Table of Contents: 
+# Table of Contents:
 #### Learn Python
 1. Intro to Python
 2. Object Oriented Programming
@@ -38,7 +40,7 @@ Once you've got the tools
 # Usage
 This project is still under construction.
 
-# Credits 
+# Credits
 The following resources have inspired me and helped me down this path:
 - [Think Python:  How to Think Like a Computer Scientist](http://www.greenteapress.com/thinkpython/thinkpython.html)
 - [Learn Python the Hard Way](https://learnpythonthehardway.org/)
