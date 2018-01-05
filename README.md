@@ -2,9 +2,9 @@
 A repo for learning data science through Python.
 # Description:
 
-A liberal arts student endeavors to learn Python, statistics, and mathematics by creating lessons that teach the selfsame subjects. These lessons are meant to be accessible to anyone and have a few guiding principles:
+A liberal arts student endeavors to learn data science by teaching it. Lessons will cover computer science 101, Python (and eventually R), statistics, and mathematics. These lessons are meant to be accessible to anyone so long as they adhere to these guiding principles:
 - Active Learning - you'll only learn by doing, so each lesson has plenty of (hopefully) engaging exercises.
-- Inductive Chain Learning - new concepts build upon mastery (or at least familiarity) with old ones. 
+- Inductive Chain Learning - new concepts build upon mastery of old ones.
 
 # Table of Contents:
 #### Learn Python
@@ -14,7 +14,7 @@ A liberal arts student endeavors to learn Python, statistics, and mathematics by
 4. Strings
 5. Containers and Iteration
 6. Pandas
-Bonus - Advanced Python (coming soon)
+7. Bonus - Advanced Python (coming soon)
 
 #### Learn Statistics
 1. Introductory Statistics
