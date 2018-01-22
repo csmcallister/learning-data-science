@@ -8,13 +8,15 @@ A liberal arts student endeavors to learn data science by teaching it. Lessons w
 
 # Table of Contents:
 #### Learn Python
+0. Code 101
 1. Intro to Python
 2. Object Oriented Programming
 3. Numbers
 4. Strings
 5. Containers and Iteration
 6. Pandas
-7. Bonus - Advanced Python (coming soon)
+7. File Input and Output
+8. Bonus - Advanced Python (coming soon)
 
 #### Learn Statistics
 1. Introductory Statistics
