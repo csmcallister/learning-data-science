@@ -64,15 +64,15 @@ A liberal arts student endeavors to learn data science by teaching it. Lessons w
    1. Descriptive statistics
    2. Hypothesis Testing
    3. Statistical Learning
-     1. Linear Regression
-     2. Logistic Regression
-     3. Linear Discriminant Analysis
-     4. K-Nearest Neighbors
-     5. Resampling Methods
-     6. Advanced Linear Models
-     7. Tree-Based Models
-     8. Support Vector Machines
-     9. Unsupervised Learning
+      1. Linear Regression
+      2. Logistic Regression
+      3. Linear Discriminant Analysis
+      4. K-Nearest Neighbors
+      5. Resampling Methods
+      6. Advanced Linear Models
+      7. Tree-Based Models
+      8. Support Vector Machines
+      9. Unsupervised Learning
    4. Neural Networks
 
 # Installation
