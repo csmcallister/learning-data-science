@@ -10,70 +10,70 @@ A liberal arts student endeavors to learn data science by teaching it. Lessons w
 # Table of Contents:
 #### Learn Python
 1. Python 101
-  1. Code 101
-  2. Intro to Python
-  3. Object Oriented Programming
+   1. Code 101
+   2. Intro to Python
+   3. Object Oriented Programming
 2. Data Types
-  1. Numbers
-  2. Strings
+   1. Numbers
+   2. Strings
 3. Data Structures
-  1. Containers and Iteration
-  2. Arrays (numpy module)
-  3. Dataframes (pandas module)
-  7. File Input and Output
+   1. Containers and Iteration
+   2. Arrays (numpy module)
+   3. Dataframes (pandas module)
+   7. File Input and Output
 4. Advanced Topics
-  1. Classes
-  2. Generators
-  3. Threads and Threading
-  4. Pipes
-  5. Currying
-  6. Mathematical Functions
-  7. Regular Expressions
-  8. Web Scraping
+   1. Classes
+   2. Generators
+   3. Threads and Threading
+   4. Pipes
+   5. Currying
+   6. Mathematical Functions
+   7. Regular Expressions
+   8. Web Scraping
 
 #### Learn Math
 1. Calculus
-  1. Numbers, Functions and Their Graphs
-  2. Derivatives 1
-  3. Limits, Continuous Functions and Linear Approximation
-  4. Graph Sketching and Max-Min Problems
-  5. Derivatives 2
-  6. Exponentials and Logarithms
-  7. The Integral
-  8. Applications of the Integral
+   1. Numbers, Functions and Their Graphs
+   2. Derivatives 1
+   3. Limits, Continuous Functions and Linear Approximation
+   4. Graph Sketching and Max-Min Problems
+   5. Derivatives 2
+   6. Exponentials and Logarithms
+   7. The Integral
+   8. Applications of the Integral
 2. Probability
-  1. Discrete Probability Distributions
-  2. Continuous Probability Densities
-  3. Combinatorics
-  4. Conditional Probability
-  5. Distributions and Densities
-  6. Expected Value and Variance
-  7. Sums of Random Variables
-  8. Law of Large Numbers
-  9. Central Limit Theorem
-  10. Generating Functions
-  11. Markov Chains
-  12. Random Walks
+   1. Discrete Probability Distributions
+   2. Continuous Probability Densities
+   3. Combinatorics
+   4. Conditional Probability
+   5. Distributions and Densities
+   6. Expected Value and Variance
+   7. Sums of Random Variables
+   8. Law of Large Numbers
+   9. Central Limit Theorem
+   10. Generating Functions
+   11. Markov Chains
+   12. Random Walks
 3. Linear Algebra
-  1. Operations with Vectors and Matrices
-  2. Computational Linear Algebra
-  3. Matrix Inversion
-  4. Eigenvalues and Eigenvectors
-  5. Orthogonal Projections
+   1. Operations with Vectors and Matrices
+   2. Computational Linear Algebra
+   3. Matrix Inversion
+   4. Eigenvalues and Eigenvectors
+   5. Orthogonal Projections
 4. Statistics
-  1. Descriptive statistics
-  2. Hypothesis Testing
-  3. Statistical Learning
-    1. Linear Regression
-    2. Logistic Regression
-    3. Linear Discriminant Analysis
-    4. K-Nearest Neighbors
-    5. Resampling Methods
-    6. Advanced Linear Models
-    7. Tree-Based Models
-    8. Support Vector Machines
-    9. Unsupervised Learning
-  4. Neural Networks
+   1. Descriptive statistics
+   2. Hypothesis Testing
+   3. Statistical Learning
+     1. Linear Regression
+     2. Logistic Regression
+     3. Linear Discriminant Analysis
+     4. K-Nearest Neighbors
+     5. Resampling Methods
+     6. Advanced Linear Models
+     7. Tree-Based Models
+     8. Support Vector Machines
+     9. Unsupervised Learning
+   4. Neural Networks
 
 # Installation
 This project utilizes [Jupyter Notebook](http://jupyter.org/), although it's recommended that you download [Anaconda](https://www.anaconda.com/download/#macos) to get Python 3.6 as well a suite of tools including Jupyter Notebook.
