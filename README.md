@@ -2,9 +2,10 @@
 A repo for learning data science through Python.
 # Description:
 
-A liberal arts student endeavors to learn data science by teaching it. Lessons will cover computer science 101, Python (and eventually R), statistics, and mathematics. These lessons are meant to be accessible to anyone so long as they adhere to these guiding principles:
+A liberal arts student endeavors to learn data science by teaching it. Lessons will cover computer science 101, Python (and eventually R), statistics, and mathematics. These lessons are meant to be accessible to anyone so long as they adhere to a few guiding principles:
 - Active Learning - you'll only learn by doing, so each lesson has plenty of (hopefully) engaging exercises.
 - Inductive Chain Learning - new concepts build upon mastery of old ones.
+- Self-Teach - You won't find solutions or links to further reading here. That means that YOU need to be your own best resource! In practice, all that really means is that you need to learn how to Google things quickly and efficiently.
 
 # Table of Contents:
 #### Learn Python
