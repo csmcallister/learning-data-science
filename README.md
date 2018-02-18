@@ -12,24 +12,24 @@ A liberal arts student endeavors to learn data science by teaching it. Lessons w
 1. Python 101
    1. Code 101
    2. Intro to Python
-   3. Object Oriented Programming
+   3. Object-Oriented Programming
 2. Data Types
    1. Numbers
    2. Strings
 3. Data Structures
-   1. Containers and Iteration
-   2. Arrays (numpy module)
-   3. Dataframes (pandas module)
-   7. File Input and Output
+   1. Containers and Control Flow
+   2. Arrays (the numpy module)
+   3. Dataframes (the pandas module)
+   4. File Input and Output
+   5. Classes
 4. Advanced Topics
-   1. Classes
-   2. Generators
-   3. Threads and Threading
-   4. Pipes
-   5. Currying
-   6. Mathematical Functions
-   7. Regular Expressions
-   8. Web Scraping
+   1. Generators
+   2. Threads and Threading
+   3. Pipes
+   4. Currying
+   5. Mathematical Functions
+   6. Regular Expressions
+   7. Web Scraping
 
 #### Learn Math
 1. Calculus
