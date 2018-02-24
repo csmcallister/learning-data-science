@@ -23,13 +23,13 @@ A liberal arts student endeavors to learn data science by teaching it. Lessons w
    4. File Input and Output
    5. Classes
 4. Advanced Topics
-   1. Generators
-   2. Threads and Threading
-   3. Pipes
-   4. Currying
-   5. Mathematical Functions
-   6. Regular Expressions
-   7. Web Scraping
+   1. Regular Expressions
+   2. Decorators
+   3. Magic Methods
+   4. Generators
+   5. Threads and Threading
+   6. Web Scraping
+   7. Web Microframeworks
 
 #### Learn Math
 1. Calculus
