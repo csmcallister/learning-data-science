@@ -2,17 +2,17 @@
 A repo for learning data science through Python.
 # Description:
 
-A liberal arts student endeavors to learn data science by teaching it. Lessons will cover computer science 101, Python (and eventually R), statistics, and mathematics. These lessons are meant to be accessible to anyone so long as they adhere to a few guiding principles:
+This repo is a liberal arts student's attempt to learn the tools and methods of data science. As a former Peace Corps Volunteer that taught English, I believe the best way to learn and master something is to get to the point where you can teach the material yourself. To that end, you'll find in this repo several lessons (via Jupyter Notebook) that cover various data science topics. These lessons are meant to be accessible to anyone regardless of their education background, so long as they adhere to a few guiding principles:
 - Active Learning - you'll only learn by doing, so each lesson has plenty of (hopefully) engaging exercises.
 - Inductive Chain Learning - new concepts build upon mastery of old ones.
-- Self-Teach - You won't find solutions or links to further reading here. That means that YOU need to be your own best resource! In practice, all that really means is that you need to learn how to Google things quickly and efficiently.
+- Self-Teach - YOU need to be your own best resource. In practice, all that really means is that you need to learn how to Google your questions quickly and efficiently.
 
 # Table of Contents:
 #### Learn Python
 1. Python 101
    1. Code 101
-   2. Intro to Python
-   3. Object-Oriented Programming
+   2. Programming 101
+   3. Python 101
 2. Data Types
    1. Numbers
    2. Strings
@@ -25,22 +25,16 @@ A liberal arts student endeavors to learn data science by teaching it. Lessons w
 4. Advanced Topics
    1. Regular Expressions
    2. Decorators
-   3. Magic Methods
-   4. Generators
-   5. Threads and Threading
-   6. Web Scraping
-   7. Web Microframeworks
+   3. Generators
+   4. Threads and Threading
+   5. Web Scraping
+   6. Web Microframeworks
 
 #### Learn Math
 1. Calculus
-   1. Numbers, Functions and Their Graphs
-   2. Derivatives 1
-   3. Limits, Continuous Functions and Linear Approximation
-   4. Graph Sketching and Max-Min Problems
-   5. Derivatives 2
-   6. Exponentials and Logarithms
-   7. The Integral
-   8. Applications of the Integral
+   1. Derivatives
+   2. Gradients
+   3. Integrals
 2. Probability
    1. Discrete Probability Distributions
    2. Continuous Probability Densities
@@ -55,14 +49,21 @@ A liberal arts student endeavors to learn data science by teaching it. Lessons w
    11. Markov Chains
    12. Random Walks
 3. Linear Algebra
-   1. Operations with Vectors and Matrices
-   2. Computational Linear Algebra
-   3. Matrix Inversion
-   4. Eigenvalues and Eigenvectors
-   5. Orthogonal Projections
+   1. Scalars, Vectors, Matrices and Tensors
+   2. Multiplying Matrices and Vectors
+   3. Identity and Inverse Matrices
+   4. Linear Dependence and Span
+   5. Norms
+   6. Special Kinds of Matrices and Vectors
+   7. Eigendecomposition
+   8. Singular Value Decomposition
+   9. The Moore-Penrose Pseudoinverse
+   10. The Trace Operator
+   11. The Determinant
+   12. Principal Components Analysis
 4. Statistics
-   1. Descriptive statistics
-   2. Hypothesis Testing
+   1. Descriptive Statistics
+   2. Inferential Statistics
    3. Statistical Learning
       1. Linear Regression
       2. Logistic Regression
@@ -76,7 +77,7 @@ A liberal arts student endeavors to learn data science by teaching it. Lessons w
    4. Neural Networks
 
 # Installation
-This project utilizes [Jupyter Notebook](http://jupyter.org/), although it's recommended that you download [Anaconda](https://www.anaconda.com/download/#macos) to get Python 3.6 as well a suite of tools including Jupyter Notebook.
+This project utilizes [Jupyter Notebook](http://jupyter.org/), although I'd recommended that you download [Anaconda](https://www.anaconda.com/download/#macos) to get Python 3.6 as well a suite of tools including Jupyter Notebook.
 
 Once you've got the tools
  - [clone this repo](https://help.github.com/articles/cloning-a-repository/)
