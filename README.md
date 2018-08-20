@@ -1,5 +1,5 @@
 # learning-data-science
-A repo for learning data science through Python.
+A repo for learning Python and data science.
 # Description:
 
 This repo is a liberal arts student's attempt to learn the tools and methods of data science. As a former Peace Corps Volunteer that taught English, I believe the best way to learn and master something is to get to the point where you can teach the material yourself. To that end, you'll find in this repo several lessons (via Jupyter Notebook) that cover various data science topics. These lessons are meant to be accessible to anyone regardless of their education background, so long as they adhere to a few guiding principles:
