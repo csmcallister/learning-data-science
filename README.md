@@ -12,7 +12,7 @@ Notebooks are ordered like levels in a video game, with the simplest/easiest mat
 
 # Table of Contents:
 #### Learn Python
-1. Python 101
+1. Code, Programming and Python
    1. Code 101
    2. Programming 101
    3. Python 101
@@ -29,9 +29,10 @@ Notebooks are ordered like levels in a video game, with the simplest/easiest mat
    1. Regular Expressions
    2. Decorators
    3. Generators
-   4. Threads and Threading
+   4. APIs
    5. Web Scraping
-   6. Web Microframeworks
+   6. Asynchronous Programming
+   7. Web Microframeworks
 
 #### Learn Math
 1. Calculus
