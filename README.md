@@ -1,11 +1,14 @@
 # learning-data-science
 A repo for learning Python and data science.
 # Description:
+The best way to learn something is by teaching it. To that end, this repo contains notebooks on the tools and methods of data science.
 
-This repo is a liberal arts student's attempt to learn the tools and methods of data science. As a former Peace Corps Volunteer that taught English, I believe the best way to learn and master something is to get to the point where you can teach the material yourself. To that end, you'll find in this repo several lessons (via Jupyter Notebook) that cover various data science topics. These lessons are meant to be accessible to anyone regardless of their education background, so long as they adhere to a few guiding principles:
-- Active Learning - you'll only learn by doing, so each lesson has plenty of (hopefully) engaging exercises.
-- Inductive Chain Learning - new concepts build upon mastery of old ones.
-- Self-Teach - YOU need to be your own best resource. In practice, all that really means is that you need to learn how to Google your questions quickly and efficiently.
+Although these lessons are meant to be approachable by anybody, a few guiding principles will help make the material stick:
+- Learn by doing
+- Only be confused by one thing at a time
+- When confused, google it
+
+Notebooks are ordered like levels in a video game, with the simplest/easiest material in the beginning and the more difficult/complex stuff near the end. I borrowed this idea from [Project Euler](https://projecteuler.net/), which is based on the idea that solving one problem will expose you to a new concept that allows you to undertake a previously inaccessible problem. So the determined learner will slowly but surely work his/her way through every lesson.
 
 # Table of Contents:
 #### Learn Python
@@ -63,7 +66,20 @@ This repo is a liberal arts student's attempt to learn the tools and methods of 
    12. Principal Components Analysis
 4. Statistics
    1. Descriptive Statistics
-   2. Inferential Statistics
+      1. Descriptive Statistics
+      1. Exploratory Data Analysis
+      1. Probability Mass Functions
+      1. Cumulative Distribution Functions
+      1. Canonical Distributions
+      1. Probability Density Functions
+      1. Relationships between Variables
+      1. Inferential Statistics
+      1. Hypothesis Testing
+      1. Linear Least Squares
+      1. Regression
+      1.  Time Series Analysis
+      1.  Survival Analysis
+      1. Analytic Intuitions
    3. Statistical Learning
       1. Linear Regression
       2. Logistic Regression
