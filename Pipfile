@@ -12,6 +12,7 @@ seaborn = "*"
 matplotlib = "*"
 statsmodels = "*"
 scipy = "*"
+ipykernel = "*"
 
 [requires]
 python_version = "3.7"
